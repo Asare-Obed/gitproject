@@ -1,3 +1,3 @@
-#### This is project for all my geospatial project 
+#### This is a project for all my geospatial project 
 
-Keeping a repository for the web app. This is also my first commit to git
+I am building a web app for my geospatial porfolio. This is the repository that is housing it. This is also my first commit to git.
